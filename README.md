@@ -1,0 +1,1 @@
+A small Python program for generating fantasy names.
